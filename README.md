@@ -1,2 +1,2 @@
-# counter
+# Counter
 A vanilla JS project
